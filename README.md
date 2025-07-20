@@ -1,6 +1,6 @@
 # Sensing-double
 
-This project is a collaborative graduation design by Ruijie Thranduil, Zongqi He, and Yuan Zhang. It aims to explore basic multimodal interaction using camera-based color recognition and sound-to-image generation. The implementation relies on relevant open-source tools and AI models. The overall design and implementation are still being continuously improved, and feedback from teachers and fellow students is welcome.
+This project is a collaborative graduation design by Ruijie Ma(Myself), Zongqi He, and Yuan Zhang. It aims to explore basic multimodal interaction using camera-based color recognition and sound-to-image generation. The implementation relies on relevant open-source tools and AI models. The overall design and implementation are still being continuously improved, and feedback from teachers and fellow students is welcome.
 
 ## Project Overview
 
